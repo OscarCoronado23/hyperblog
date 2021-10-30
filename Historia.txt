@@ -1,3 +1,5 @@
-Mi nombre es Oscar Coronado 
+Mi nombre es Oscar Coronado Salazar
 
-y estoy aprendiendo git.
+Tengo 26 años 
+
+y estoy aprendiendo git y GitHub en platzi.

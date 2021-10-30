@@ -1,0 +1,20 @@
+*Carpeta en la que te encuentras
+pwd
+*Navegar hacia alguna carpeta o directorio 
+cd /
+*listas los archivos que tengo en este momento
+ls
+*Crear carpeta
+mkdir (nombre)
+*Ver el estatus del archivo 
+git status
+*Mandar los cambios al repositorio con comentario
+git commit -m "mensaje"
+*Ver lo que tiene el archivo 
+cat (nombre archivo)
+*Modificar archivo
+code (nombre archivo)
+*Ver modificaciones del archivo
+git log (nombre archivo)
+*Ver cambios que se han echo en el archivo 
+git show (nombre)
